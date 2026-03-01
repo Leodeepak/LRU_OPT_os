@@ -126,4 +126,6 @@ int main(int argc, char *argv[]) {
 }
 
 // gcc LRU_opt.c -o lru
+//THIS IS HOW I COMPILE IT IN VS CODE
 //./lru 20 3
+//AND THE ABOVE ONE IS HOW I RAN IT IN VS CODE
